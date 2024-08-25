@@ -4,10 +4,10 @@ using namespace std;
 int main()
 {
 
-    int a = 2, b = 3, c = 3, d = 2;
-    int mat1[a][b] = {{1, 1}, {2, 2},{3,3}};
+    int a = 2, b = 2, c = 2, d = 2;
+    int mat1[a][b] = {{1, 1}, {2, 2}};
 
-    int mat2[c][d] = {{1, 1,1}, {2, 2, 2}};
+    int mat2[c][d] = {{1, 1}, {2, 2}};
 
     while (b == c)
     {
