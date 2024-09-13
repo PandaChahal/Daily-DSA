@@ -14,7 +14,6 @@ int main()
     int n ;
     cout<<"enter your number : ";
     cin>>n;
-    //cout<<endl;
     cout<<"factorial of "<<n<<" is "<<fact(n);
     return 0;
 }
